@@ -3,7 +3,7 @@
 
 ## Purpose
 * Implement user login, books search and checkout, user history with PHP and MySQL
-* Handle security issues include: SQL injection, malicous use input, session hijacking
+* Handle security issues include: SQL injection, malicous use input, cross-site scripting attacks 
 * Use CSS and MUI framework to keep page in good style
 
 ## Tool
